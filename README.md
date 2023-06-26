@@ -1,3 +1,4 @@
+#Valerie Rodriguez
 - 👋 Hola, Soy @Hevlask Soy Ingeniero de Software Graduado hace un par de años
 - 👀 Ando en busqueda de crecer en el mundo del Desarrollo de Aplicaciones web 
 - 🌱 Actualmente estoy aprendiendo JavaScript, tuve la oportunidad de participar en en desarrollo de aplicaciones de escritorio sencillas en java y c#, y algunas paginas web.
@@ -5,8 +6,6 @@
 - 📫 Contacto :
 - LinkediIn: https://www.linkedin.com/in/valerie-rodriguez-9964b916a
 - Correo:  vall.rodriguez96@gmail.com
-- 
--   
 
 <!---
 Hevlask/Hevlask is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
